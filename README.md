@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Nice to meet you!
-Keep going,shout up to every coder,respect!
+Nice to meet you!  
+Keep going,shout up to every coder,respect!  
 
 <!--
 **EmotionBin/EmotionBin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
